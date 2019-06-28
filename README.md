@@ -1,7 +1,6 @@
-##  Attendance Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Attendace_management_system/blob/master/LICENSE)
+##  Attendance Management system using Face👦🏻👧 Recognition 
 
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
+
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
@@ -26,24 +25,6 @@
 - You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
 - `Manually Fill Attendace` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
 
-### Screenshots
-
-### Basic UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(43).png">
-
-### When it's Recognise me
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(41).png">
-
-### When it's fill a attendace
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(42).png">
-
-### Manually attendance filling UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(44).png">
-
-
-### How it works? See:)
-
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
 
 ### Video demo
 
@@ -55,4 +36,3 @@
 - If you think it will recognise person just like humans,than leave it ,its not possible.
 - Noisy image can reduce your accuracy so quality of images matter.
 
-## Just follow☝️ me and Star⭐ my repository 
